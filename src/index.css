@@ -1,13 +1,149 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: "Rubik", sans-serif !important;
+  font-optical-sizing: auto;
+
+  font-style: normal;
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+  width: 100%;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+section {
+  margin-bottom: 15%;
+}
+
+.Hero-Section-Text {
+  position: absolute;
+  top: 80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+  text-align: center;
+}
+.Hero-Section-Text h1 {
+  font-size: 3.5rem;
+}
+.Hero-Section-Text img {
+  width: 64px;
+}
+
+.VideoSection h1 {
+  font-size: 3rem;
+  font-weight: 700;
+
+  text-wrap: pretty;
+  margin: auto auto;
+  width: 70%;
+  margin-bottom: 5%;
+}
+
+.NeverSeenSection-Text h1 {
+  font-size: 5rem;
+}
+
+.NeverSeenSection-Text img {
+  width: 64px;
+}
+a {
+  text-decoration: none !important;
+  color: #fe6009 !important;
+}
+.card {
+  border: none !important;
+  background-color: transparent !important ;
+}
+
+button {
+  text-decoration: none !important;
+  background-color: #fe6009 !important;
+  border-radius: 25px !important;
+}
+
+.AppsSection h1,
+h4 {
+  font-size: 4rem;
+  font-weight: 800;
+  text-wrap: pretty;
+  margin: auto auto;
+  width: 70%;
+  margin-bottom: 5%;
+  margin-top: 15%;
+}
+
+.AppsSection p {
+  font-size: 1.2rem;
+  text-wrap: pretty;
+  margin: auto auto;
+  width: 70%;
+  margin-bottom: 5%;
+  margin-top: 15%;
+  color: #5f5f63;
+  font-weight: 700;
+  text-align: left;
+}
+
+.AppsSection h2 {
+  font-size: 2.5rem;
+  text-wrap: pretty;
+  margin: auto auto;
+  width: 70%;
+  margin-bottom: 5%;
+  margin-top: 15%;
+}
+
+.CollapseCustom .card {
+  background-color: black !important;
+  color: #5f5f63;
+  padding: 5%;
+}
+
+.bgbg {
+  background-color: #f5f5f7;
+}
+
+.DesginSection {
+  background-image: url("../src/Images/DesginBg.jpg");
+  background-position: top right;
+  background-repeat: no-repeat;
+  background-size: contain;
+  font-size: 1.3rem;
+  background-color: #f5f5f7;
+}
+
+.DesginSectionText h1 , h4 ,p {
+  margin: auto auto;
+  width: 50%;
+  margin-bottom: 5%;
+ 
+
+}
+
+.DesginSectionText h1 , h4 {
+font-size: 4.5rem;
+
+}
+
+.DesginSectionText p {
+  color: #5f5f63 !important;
+  
+  }
+  
+
+.DesginCard .card {
+  width: 60% !important;
+  margin-right: auto;
+}
+
+.DesginCard .card p{ 
+  width: 100% !important;
+  color: #5f5f63 !important;
+
+}
+
+.DesginCard .card span{ 
+ 
+  color: black !important;
+
 }
