@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/visionpro/static/css/main.45163f2e.css",
+    "main.css": "/visionpro/static/css/main.77e13745.css",
     "main.js": "/visionpro/static/js/main.d1c84b13.js",
     "static/js/453.2a7c6bda.chunk.js": "/visionpro/static/js/453.2a7c6bda.chunk.js",
     "static/media/DesginBg.jpg": "/visionpro/static/media/DesginBg.88b6c6490f4c7782a7aa.jpg",
@@ -65,12 +65,12 @@
     "static/media/Desgin4.jpg": "/visionpro/static/media/Desgin4.0323471c5fea13628a75.jpg",
     "index.html": "/visionpro/index.html",
     "static/media/HeroIcon.svg": "/visionpro/static/media/HeroIcon.1fc4090ab1266e50362f66018391e9f3.svg",
-    "main.45163f2e.css.map": "/visionpro/static/css/main.45163f2e.css.map",
+    "main.77e13745.css.map": "/visionpro/static/css/main.77e13745.css.map",
     "main.d1c84b13.js.map": "/visionpro/static/js/main.d1c84b13.js.map",
     "453.2a7c6bda.chunk.js.map": "/visionpro/static/js/453.2a7c6bda.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.45163f2e.css",
+    "static/css/main.77e13745.css",
     "static/js/main.d1c84b13.js"
   ]
 }
