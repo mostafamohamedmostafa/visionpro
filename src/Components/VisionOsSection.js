@@ -204,7 +204,7 @@ export const VisionOsSection = () => {
       <div className="collapse CollapseCustom" id="VisionOsCollapse">
         <div className="card card-body">
           <div
-            id="carouselExampleSlidesOnly"
+            id="carouselVisionSection"
             className="carousel slide"
             data-bs-ride="carousel"
           >

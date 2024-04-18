@@ -167,7 +167,7 @@ export const DesginSectionTwo = () => {
         <div className="collapse CollapseCustom" id="DesginSectionCollapse">
           <div className="card card-body">
             <div
-              id="carouselExampleSlidesOnly"
+              id="carouselDesginSection"
               className="carousel slide"
               data-bs-ride="carousel"
             >
