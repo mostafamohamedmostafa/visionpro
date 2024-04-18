@@ -51,7 +51,7 @@ export const AppsSection = (props) => {
         <div className="collapse CollapseCustom" id={props.ButtonCollapse}>
           <div className="card card-body">
             <div
-              id={carouselID}
+              id="carouselExampleSlidesOnly"
               className="carousel slide"
               data-bs-ride="carousel"
             >

@@ -64,6 +64,8 @@ export const OverVeiwPage = () => {
                 Text="Apple Vision Pro has the familiar apps you know and love — transformed to live in your space. Like Safari, Photos, Music, and Messages. And with iCloud, your content is automatically synced with your iPhone, iPad, and Mac."
                 Data={AppData}
                 BgStyle="bgbg"
+                carouselID="Apps"
+
             >
 
             </AppsSection>
@@ -82,6 +84,7 @@ export const OverVeiwPage = () => {
                 Image={Entertainment1}
                 Text="All‑new Apple Immersive Video is a 180-degree 3D 8K recording format captured with Spatial Audio — putting you right inside the action and transporting you to places you’ve never been."
                 Data={EntertainmentData}
+                carouselID="Entertainment"
 
             >
 
@@ -103,6 +106,8 @@ export const OverVeiwPage = () => {
                 Text="Spatial videos and photos have incredible depth that lets you see into a moment. Expand them to get even closer to your favorite memories."
                 Data={VideoData}
                 BgStyle="bgbg"
+                carouselID="Photoss"
+
             >
 
             </AppsSection>
@@ -123,6 +128,8 @@ export const OverVeiwPage = () => {
                 Image={Connection1}
                 Text="In FaceTime, each participant appears in your space within a tile that you can adjust in scale. Spatial Audio makes the conversation feel more natural by placing each person’s voice in the location of their tile."
                 Data={ConnectionData}
+                carouselID="Connections"
+
 
             >
 
