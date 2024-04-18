@@ -26,7 +26,7 @@ export const VisionOsSection = () => {
       ></video>
 
       <div className="row row-cols-1 ">
-        <div className="col-lg-6">
+        <div className="col-lg-4">
           <div className="card h-100">
             <div className="card-body">
               <h2 className="card-text">
@@ -36,7 +36,7 @@ export const VisionOsSection = () => {
           </div>
         </div>
 
-        <div className="col-lg-6">
+        <div className="col-lg-8">
           <div className="card h-100">
             <div className="card-body">
               <p className="card-text">
@@ -61,7 +61,7 @@ export const VisionOsSection = () => {
           </div>
         </div>
 
-        <div className="col-lg-6 ">
+        <div className="col-lg-6">
           <div className="card h-100">
             <div className="card-body">
               <img className="img-fluid" src={VisionOS2}></img>
@@ -71,7 +71,7 @@ export const VisionOsSection = () => {
       </div>
 
       <div className="row row-cols-1 ">
-        <div className="col-lg-6 ">
+        <div className="col-lg-4 ">
           <div className="card h-100">
             <div className="card-body">
               <h2>Apps leap into life.</h2>
@@ -79,7 +79,7 @@ export const VisionOsSection = () => {
           </div>
         </div>
 
-        <div className="col-lg-6">
+        <div className="col-lg-8">
           <div className="card h-100">
             <div className="card-body">
               <p>
@@ -131,7 +131,7 @@ export const VisionOsSection = () => {
       </div>
 
       <div className="row row-cols-1 ">
-        <div className="col-lg-6 g-4">
+        <div className="col-lg-4">
           <div className="card h-100">
             <div className="card-body">
               <h2>Expand your surroundings.</h2>
@@ -139,7 +139,7 @@ export const VisionOsSection = () => {
           </div>
         </div>
 
-        <div className="col-lg-6 g-4">
+        <div className="col-lg-8">
           <div className="card h-100">
             <div className="card-body">
               <p>
@@ -165,7 +165,7 @@ export const VisionOsSection = () => {
       </div>
 
       <div className="row row-cols-1 ">
-        <div className="col-lg-6 g-4">
+        <div className="col-lg-4">
           <div className="card h-100">
             <div className="card-body">
               <h2>Stay connected to people around you.</h2>
@@ -173,7 +173,7 @@ export const VisionOsSection = () => {
           </div>
         </div>
 
-        <div className="col-lg-6 g-4">
+        <div className="col-lg-8">
           <div className="card h-100">
             <div className="card-body">
               <p>
@@ -184,20 +184,20 @@ export const VisionOsSection = () => {
                 the person and reveals your eyes to them.
               </p>
             </div>
-          </div>
 
-          <p className="d-inline-flex gap-1">
-            <button
-              className="btn btn-primary"
-              type="button"
-              data-bs-toggle="collapse"
-              data-bs-target="#VisionOsCollapse"
-              aria-expanded="false"
-              aria-controls="collapseExample"
-            >
-              Learn more about VisionOs
-            </button>
-          </p>
+            <p className="d-inline-flex gap-1 mb-6">
+              <button
+                className="btn btn-primary"
+                type="button"
+                data-bs-toggle="collapse"
+                data-bs-target="#VisionOsCollapse"
+                aria-expanded="false"
+                aria-controls="collapseExample"
+              >
+                Learn more about VisionOs
+              </button>
+            </p>
+          </div>
         </div>
       </div>
 
