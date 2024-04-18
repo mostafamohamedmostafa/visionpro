@@ -36,7 +36,7 @@ export const VisionOsSection = () => {
           </div>
         </div>
 
-        <div className="col-lg-8">
+        <div className="col-lg-8 col-12">
           <div className="card h-100">
             <div className="card-body">
               <p className="card-text">

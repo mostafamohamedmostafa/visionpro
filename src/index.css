@@ -74,7 +74,7 @@ h4 {
 
 .AppsSection p {
   font-size: 1.2rem;
-  text-wrap: pretty;
+  text-wrap: balance;
   margin: auto auto;
   width: 70%;
   margin-bottom: 5%;
@@ -127,6 +127,8 @@ h4 {
 
 .DesginSectionText p {
   color: #5f5f63 !important;
+  width: 100%;
+  text-align: left;
 }
 
 .DesginCard .card {
@@ -143,43 +145,27 @@ h4 {
   color: black !important;
 }
 
-.VisionOsSection{
+.VisionOsSection {
   background-color: #f5f5f7;
 }
 
 .VisionOsSection h1 {
   font-size: 4rem;
   width: 80%;
-  margin:  0 auto;
+  margin: 0 auto;
   text-wrap: balance;
 }
 
-.VisionOsSection h2{
+.VisionOsSection h2 {
   font-weight: 700;
   text-align: center;
 }
-.VisionOsSection p{
+.VisionOsSection p {
   color: #5f5f63;
   font-size: large;
   text-align: left;
+  width: 100%;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .TechnologySection {
   background-color: black;
@@ -189,7 +175,7 @@ h4 {
   color: white;
   font-size: 5rem;
   width: 80%;
-  margin:  0 auto;
+  margin: 0 auto;
   text-wrap: balance;
 }
 .TechnologySection h4 {
@@ -201,6 +187,7 @@ h4 {
 
 .TechnologySection p {
   color: #5f5f63;
+  width: 100%;
 }
 
 .TechnologySection .Tech {
@@ -215,4 +202,55 @@ h4 {
   padding-top: 40%;
   width: 66%;
   margin-left: 32%;
+}
+
+@media screen and (max-width: 480px) {
+  .Hero-Section-Text h1 {
+    font-size: 1.5rem;
+  }
+
+  .Hero-Section-Text img {
+    width: 22px;
+  }
+  .VideoSection h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    width: 100%;
+  }
+
+  .AppsSection h1,
+  h4 {
+    font-size: 2.5rem;
+    font-weight: 800;
+
+    width: 100%;
+  }
+
+  .AppsSection p {
+    font-size: 1.2rem;
+    width: 100%;
+  }
+
+  .AppsSection h2 {
+    font-size: 2rem;
+    width: 100%;
+  }
+
+  .DesginSection {
+    background-size: cover;
+    background-position: center center;
+  }
+  .DesginSectionText p {
+    width: 100%;
+    margin-bottom: 5%;
+  }
+  .DesginCard .card {
+    width: 100% !important;
+  }
+
+  .TechnologySection h1 {
+ 
+    font-size: 2.5rem;
+
+  }
 }

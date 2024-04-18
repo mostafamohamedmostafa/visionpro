@@ -27,7 +27,7 @@ export const DesginSection = () => {
 
       <div className="DesginCard container-fluid">
         <div className="row row-cols-1 ">
-          <div className="col-6">
+          <div className="col-lg-11 col-12">
             <div className="card h-100">
               <div className="card-body">
                 <p className="card-text">
@@ -39,7 +39,7 @@ export const DesginSection = () => {
             </div>
           </div>
 
-          <div className="col-8">
+          <div className="col-lg-10 col-12">
             <div className="card h-100">
               <div className="card-body">
                 <p className="card-text">
@@ -51,7 +51,7 @@ export const DesginSection = () => {
             </div>
           </div>
 
-          <div className="col-8">
+          <div className="col-lg-8 col-12">
             <div className="card h-100">
               <div className="card-body">
                 <p className="card-text">
@@ -64,7 +64,7 @@ export const DesginSection = () => {
             </div>
           </div>
 
-          <div className="col-8">
+          <div className="col-lg-9 col-12">
             <div className="card h-100">
               <div className="card-body">
                 <p className="card-text">
@@ -75,7 +75,7 @@ export const DesginSection = () => {
             </div>
           </div>
 
-          <div className="col-8">
+          <div className="col-lg-10 col-12">
             <div className="card h-100">
               <div className="card-body">
                 <p className="card-text">
@@ -97,7 +97,7 @@ export const DesginSectionTwo = () => {
     <section className="DesginSectionTwo">
       <div className="container-fluid">
         <div className="row row-cols-1 row-cols-md-1">
-          <div className="col">
+          <div className="col-12">
             <div className="card h-100">
               <img className="img-fluid" src={DesginSection1}></img>
               <div className="card-body">
@@ -112,14 +112,14 @@ export const DesginSectionTwo = () => {
         </div>
 
         <div className="row row-cols-1  g-4">
-          <div className="col-6">
+          <div className="col-lg-6">
             <div className="card h-100">
               <img className="img-fluid" src={DesginSection2}></img>
               <div className="card-body"></div>
             </div>
           </div>
 
-          <div className="col-6">
+          <div className="col-lg-6">
             <div className="card h-100">
               <img className="img-fluid" src={DesginSection3}></img>
               <div className="card-body">
@@ -128,7 +128,7 @@ export const DesginSectionTwo = () => {
             </div>
           </div>
 
-          <div className="col-12">
+          <div className="col-lg-12">
             <div className="card h-100">
               <img className="img-fluid" src={DesginSection4}></img>
               <div className="card-body">
@@ -143,7 +143,7 @@ export const DesginSectionTwo = () => {
             </div>
           </div>
 
-          <div className="col-12 text-center">
+          <div className="col-lg-12 text-center">
             <div className="card h-100">
               <img className="img-fluid" src={DesginSection5}></img>
               <div className="card-body">
