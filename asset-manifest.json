@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/visionpro/static/css/main.6b0d4892.css",
-    "main.js": "/visionpro/static/js/main.ce993a3a.js",
+    "main.css": "/visionpro/static/css/main.a8c43a52.css",
+    "main.js": "/visionpro/static/js/main.dfdfc410.js",
     "static/js/453.2a7c6bda.chunk.js": "/visionpro/static/js/453.2a7c6bda.chunk.js",
     "static/media/DesginBg.jpg": "/visionpro/static/media/DesginBg.88b6c6490f4c7782a7aa.jpg",
     "static/media/Video.mp4": "/visionpro/static/media/Video.094498d8af6f15208cbf.mp4",
@@ -24,6 +24,7 @@
     "static/media/Entertainment1.jpg": "/visionpro/static/media/Entertainment1.c3771ea5212450a3cdfa.jpg",
     "static/media/Entertainment2.jpg": "/visionpro/static/media/Entertainment2.c3771ea5212450a3cdfa.jpg",
     "static/media/DigitalCrown.jpg": "/visionpro/static/media/DigitalCrown.8ceb3ac19cb0bfd0090d.jpg",
+    "static/media/Technology2.jpg": "/visionpro/static/media/Technology2.2ccb896011cb7b7f3ea2.jpg",
     "static/media/VisionOS2.jpg": "/visionpro/static/media/VisionOS2.c91f1c73850b3aacac1c.jpg",
     "static/media/DesginSection5.jpg": "/visionpro/static/media/DesginSection5.57b9783e5a3cbabd0975.jpg",
     "static/media/DesginSection1.jpg": "/visionpro/static/media/DesginSection1.f71be3a18bff40664abd.jpg",
@@ -32,11 +33,14 @@
     "static/media/VisionOS1.jpg": "/visionpro/static/media/VisionOS1.d7b700600e4ede53f242.jpg",
     "static/media/Vision1.mp4": "/visionpro/static/media/Vision1.24e0c4a3a1461891f15f.mp4",
     "static/media/HeroImage.jpeg": "/visionpro/static/media/HeroImage.fa11b8b9e0d944a8aae0.jpeg",
+    "static/media/Technology1.jpg": "/visionpro/static/media/Technology1.d18697ef972708d94511.jpg",
     "static/media/DesginSection2.jpg": "/visionpro/static/media/DesginSection2.b83340bce4df1e4474a4.jpg",
     "static/media/Entertainment3.jpg": "/visionpro/static/media/Entertainment3.88fcb2164a6c9b011878.jpg",
+    "static/media/Technology5.jpg": "/visionpro/static/media/Technology5.11a0f4880b70e8b1c536.jpg",
     "static/media/lightSeal.jpg": "/visionpro/static/media/lightSeal.cb24e5cd6fa25f3dce46.jpg",
     "static/media/Apps.mp4": "/visionpro/static/media/Apps.6c33ce23212019a93dbf.mp4",
     "static/media/Desgin2.jpg": "/visionpro/static/media/Desgin2.2611a96a1be9e6b33b94.jpg",
+    "static/media/Technology3.jpg": "/visionpro/static/media/Technology3.df663d89c9ac89682602.jpg",
     "static/media/Connection4.jpg": "/visionpro/static/media/Connection4.17be327482f28873d7b7.jpg",
     "static/media/DesginSection3.jpg": "/visionpro/static/media/DesginSection3.9475ea8f6dc982e814ca.jpg",
     "static/media/Video3.jpg": "/visionpro/static/media/Video3.53ce5cc95d38d7fddbf6.jpg",
@@ -46,6 +50,7 @@
     "static/media/appsection5.jpg": "/visionpro/static/media/appsection5.097cc263c41d580112a2.jpg",
     "static/media/VisionOS5.jpg": "/visionpro/static/media/VisionOS5.eb5bb19f8296fc46a4de.jpg",
     "static/media/Front.jpg": "/visionpro/static/media/Front.183f3e352d7121227f31.jpg",
+    "static/media/Technology4.jpg": "/visionpro/static/media/Technology4.2759ba4561c09a96aa2d.jpg",
     "static/media/Entertainment4.jpg": "/visionpro/static/media/Entertainment4.4932c57a6a02a86890da.jpg",
     "static/media/appsection1.jpg": "/visionpro/static/media/appsection1.e15ab5009e8695ce3912.jpg",
     "static/media/Sensors.jpg": "/visionpro/static/media/Sensors.a2d5a1442751a8b1536d.jpg",
@@ -65,12 +70,12 @@
     "static/media/Desgin4.jpg": "/visionpro/static/media/Desgin4.0323471c5fea13628a75.jpg",
     "index.html": "/visionpro/index.html",
     "static/media/HeroIcon.svg": "/visionpro/static/media/HeroIcon.1fc4090ab1266e50362f66018391e9f3.svg",
-    "main.6b0d4892.css.map": "/visionpro/static/css/main.6b0d4892.css.map",
-    "main.ce993a3a.js.map": "/visionpro/static/js/main.ce993a3a.js.map",
+    "main.a8c43a52.css.map": "/visionpro/static/css/main.a8c43a52.css.map",
+    "main.dfdfc410.js.map": "/visionpro/static/js/main.dfdfc410.js.map",
     "453.2a7c6bda.chunk.js.map": "/visionpro/static/js/453.2a7c6bda.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b0d4892.css",
-    "static/js/main.ce993a3a.js"
+    "static/css/main.a8c43a52.css",
+    "static/js/main.dfdfc410.js"
   ]
 }
