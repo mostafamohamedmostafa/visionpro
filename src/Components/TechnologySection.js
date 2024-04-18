@@ -20,18 +20,19 @@ export const TechnologySection = () => {
         unprecedented experience you have to see to believe.
       </p>
 
-      <img className="img-fluid" src={Technology1}></img>
+      <div className="container">
+        <img className="img-fluid" src={Technology1}></img>
 
-      <h3>More pixels than a 4K TV. For each eye.</h3>
-      <p>
-        The custom micro‑OLED display system features 23 million pixels,
-        delivering stunning resolution and colors. And a specially designed
-        three‑element lens creates the feeling of a display that’s everywhere
-        you look.
-      </p>
+        <h3>More pixels than a 4K TV. For each eye.</h3>
+        <p>
+          The custom micro‑OLED display system features 23 million pixels,
+          delivering stunning resolution and colors. And a specially designed
+          three‑element lens creates the feeling of a display that’s everywhere
+          you look.
+        </p>
+      </div>
 
-       <section className="Tech">
-     
+      <section className="Tech">
         <div className="Tech-Text container">
           <h3>Our most advanced Spatial Audio system ever.</h3>
           <p>
@@ -46,41 +47,47 @@ export const TechnologySection = () => {
           </p>
         </div>
       </section>
+      <div className="container">
+        <img className="img-fluid" src={Technology3}></img>
 
-      <img className="img-fluid" src={Technology3}></img>
+        <h3>Responsive, precision eye tracking.</h3>
+        <p>
+          A high‑performance eye‑tracking system of LEDs and infrared cameras
+          projects invisible light patterns onto each eye. This advanced system
+          provides ultraprecise input without your needing to hold any
+          controllers, so you can accurately select elements just by looking at
+          them.
+        </p>
+      </div>
 
-      <h3>Responsive, precision eye tracking.</h3>
-      <p>
-        A high‑performance eye‑tracking system of LEDs and infrared cameras
-        projects invisible light patterns onto each eye. This advanced system
-        provides ultraprecise input without your needing to hold any
-        controllers, so you can accurately select elements just by looking at
-        them.
-      </p>
+      <div className="container">
+        <img className="img-fluid" src={Technology4}></img>
 
-      <img className="img-fluid" src={Technology4}></img>
+        <h3>A sophisticated sensor array.</h3>
+        <p>
+          A pair of high-resolution cameras transmit over one billion pixels per
+          second to the displays so you can see the world around you clearly.
+          The system also helps deliver precise head and hand tracking and
+          real‑time 3D mapping, all while understanding your hand gestures from
+          a wide range of positions.
+        </p>
+      </div>
 
-      <h3>A sophisticated sensor array.</h3>
-      <p>
-        A pair of high-resolution cameras transmit over one billion pixels per
-        second to the displays so you can see the world around you clearly. The
-        system also helps deliver precise head and hand tracking and real‑time
-        3D mapping, all while understanding your hand gestures from a wide range
-        of positions.
-      </p>
+      <div className="container">
+        <img className="img-fluid" src={Technology5}></img>
 
-      <img className="img-fluid" src={Technology5}></img>
+        <h3>Revolutionary dual‑chip performance.</h3>
+        <p>
+          A unique dual‑chip design enables the spatial experiences on Apple
+          Vision Pro. The powerful M2 chip simultaneously runs visionOS,
+          executes advanced computer vision algorithms, and delivers stunning
+          graphics, all with incredible efficiency. And the brand-new R1 chip is
+          specifically dedicated to process input from the cameras, sensors, and
+          microphones, streaming images to the displays within 12 milliseconds —
+          for a virtually lag-free, real-time view of the world.
+        </p>
+      </div>
 
-      <h3>Revolutionary dual‑chip performance.</h3>
-      <p>
-        A unique dual‑chip design enables the spatial experiences on Apple
-        Vision Pro. The powerful M2 chip simultaneously runs visionOS, executes
-        advanced computer vision algorithms, and delivers stunning graphics, all
-        with incredible efficiency. And the brand-new R1 chip is specifically
-        dedicated to process input from the cameras, sensors, and microphones,
-        streaming images to the displays within 12 milliseconds — for a
-        virtually lag-free, real-time view of the world.
-      </p>
       <div className="row row-cols-1 ">
         <div className="col-lg-6">
           <div className="card h-100">
