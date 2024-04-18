@@ -51,7 +51,7 @@ export const AppsSection = (props) => {
         <div className="collapse CollapseCustom" id={props.ButtonCollapse}>
           <div className="card card-body">
             <div
-              id="carouselExampleRide"
+              id={props.carouselID}
               className="carousel slide"
               data-bs-ride="carousel"
             >
@@ -85,7 +85,7 @@ export const AppsSection = (props) => {
               <button
                 class="carousel-control-prev"
                 type="button"
-                data-bs-target="#carouselExampleRide"
+                data-bs-target={props.carouselIDHash}
                 data-bs-slide="prev"
               >
                 <span
@@ -97,7 +97,7 @@ export const AppsSection = (props) => {
               <button
                 class="carousel-control-next"
                 type="button"
-                data-bs-target="#carouselExampleRide"
+                data-bs-target={props.carouselIDHash}
                 data-bs-slide="next"
               >
                 <span
