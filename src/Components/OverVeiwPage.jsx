@@ -23,6 +23,7 @@ import ConnectionVideo from "../Images/Connection.mp4"
 import Connection1 from "../Images/Connection1.jpg"
 import { DesginSection, DesginSectionTwo } from './DesginSection'
 import { VisionOsSection } from './VisionOsSection'
+import { TechnologySection } from './TechnologySection'
 
 
 export const OverVeiwPage = () => {
@@ -142,6 +143,8 @@ export const OverVeiwPage = () => {
             <DesginSection></DesginSection>
             <DesginSectionTwo></DesginSectionTwo>
             <VisionOsSection></VisionOsSection>
+
+            <TechnologySection></TechnologySection>
         </section>
 
     )

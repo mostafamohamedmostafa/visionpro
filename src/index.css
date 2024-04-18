@@ -112,38 +112,65 @@ h4 {
   background-color: #f5f5f7;
 }
 
-.DesginSectionText h1 , h4 ,p {
+.DesginSectionText h1,
+h4,
+p {
   margin: auto auto;
   width: 50%;
   margin-bottom: 5%;
- 
-
 }
 
-.DesginSectionText h1 , h4 {
-font-size: 2rem;
-
+.DesginSectionText h1,
+h4 {
+  font-size: 2rem;
 }
 
 .DesginSectionText p {
   color: #5f5f63 !important;
-  
-  }
-  
+}
 
 .DesginCard .card {
   width: 60% !important;
   margin-right: auto;
 }
 
-.DesginCard .card p{ 
+.DesginCard .card p {
   width: 100% !important;
   color: #5f5f63 !important;
-
 }
 
-.DesginCard .card span{ 
- 
+.DesginCard .card span {
   color: black !important;
+}
 
+.TechnologySection {
+  background-color: black;
+}
+
+.TechnologySection h1 {
+  color: white;
+}
+.TechnologySection h4 {
+  color: white;
+}
+.TechnologySection h3 {
+  color: white;
+}
+
+.TechnologySection p {
+  color: #5f5f63;
+}
+
+.TechnologySection .Tech {
+  background-image: url("../src//Images//Technology2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 130vh;
+}
+
+.TechnologySection .Tech .Tech-Text {
+  padding-top: 40%;
+  width: 66%;
+  margin-left: 32%;
 }
